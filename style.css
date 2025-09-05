@@ -84,4 +84,16 @@ footer {
   section {
     padding: 20px;
   }
+
+}
+
+/* Profile picture */
+.resume img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 50%;
+  border: 2px solid #333;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
 }
